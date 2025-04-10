@@ -27,8 +27,8 @@ The tests are designed to remain functional even if the position, CSS classes, I
 
 1.  **Clone or Download:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/pswitchy/CloudQA-Assignment.git
+    cd CloudQA-Assignment
     ```
     Or download the source code ZIP and extract it.
 
