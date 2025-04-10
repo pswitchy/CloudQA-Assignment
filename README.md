@@ -85,3 +85,7 @@ The key focus is selecting elements without relying on attributes or structures 
 *   **Screenshots:** On failure (timeouts or other exceptions), a screenshot is automatically saved to the `bin/Debug/netX.X/Screenshots` directory (relative to the project path). Review the screenshot to see the state of the browser at the time of failure.
 *   **Dependencies:** Ensure all prerequisites are installed correctly and run `dotnet restore` if you encounter build issues related to missing packages.
 *   **ChromeDriver:** `WebDriverManager` should handle this, but if you have issues, ensure your Chrome browser is up-to-date.
+
+## Working Proof
+
+![Screenshot 2025-04-10 180017](https://github.com/user-attachments/assets/928e23f4-bff4-44f4-9350-b2e4dd0d8c22)
